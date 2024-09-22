@@ -1,0 +1,14 @@
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\bin\Debug\net8.0\Educational Management System.exe
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\bin\Debug\net8.0\Educational Management System.deps.json
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\bin\Debug\net8.0\Educational Management System.runtimeconfig.json
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\bin\Debug\net8.0\Educational Management System.dll
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\bin\Debug\net8.0\Educational Management System.pdb
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.AssemblyInfoInputs.cache
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.AssemblyInfo.cs
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.csproj.CoreCompileInputs.cache
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.dll
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\refint\Educational Management System.dll
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.pdb
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\Educational Management System.genruntimeconfig.cache
+D:\Testing\C#\OOP Project\Educational Management System\Educational Management System\obj\Debug\net8.0\ref\Educational Management System.dll
